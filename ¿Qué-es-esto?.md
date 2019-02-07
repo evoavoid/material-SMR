@@ -1,2 +1,3 @@
 # material-SMR
-Clases de refuerzo
+
+aquí se encuentra el material de las clases de refuerzo
