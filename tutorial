@@ -1,0 +1,30 @@
+=====================================================
+COMANDOS LINUX BÁSICOS
+-----------------------------------------------------
+ls --> lista las cosas de una carpeta
+cat --> Muestra el contenido de un fichero
+nano --> Crea/Edita un fichero
+./archivo-que-quieres-ejecutar --> Ejecuta un archivo
+chmod 777 --> Das todos los permisos
+chmod 700 --> Quitas los permisos excepto del root
+cd --> cambiar directorio
+clear --> limpia la pantalla
+pwd --> te muestra la ruta en la que estas
+-----------------------------------------------------
+=====================================================
+Para usar Github, tienes que instalarlo:
+  apt-get install git
+Y para descargar los ejercicios:
+1º Entras al enlace que te haya enviado ( abrelo en el pc sino no sirve de nada XD )
+2º Clicas sobre clone or download
+3º Copias el enlace que te saldrá
+4º Introduces lo siguiente en el terminal
+  git clone "y aqui pegas el enlace que has copiado en la página, sin las comillas XD"
+5º A estudiar!
+=====================================================
+VOCABULARIO
+----------------------------------------------------------------
+directorio: en windows se llama carpeta
+fichero: archivos de texto, si terminan en ".sh" son ejecutables
+-----------------------------------------------------------------
+=================================================================
