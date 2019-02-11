@@ -1,0 +1,21 @@
+	## COMANDOS LINUX ##
+
+	pwd : muestra la ruta en la que estas
+	
+	ls : lista el contenido de la carpeta en la que estas
+
+	cd : cambia de directorio
+
+	mkdir : crea una carpeta
+
+	nano : editor de texto crea/edita ficheros
+
+	rm : eliminar ficheros ( o carpetas)
+
+	man "comando" : abre el manual de un comando (cambia comando por el comando) 
+							(del que tengas dudas y sin)
+							(comillas)
+
+	chmod : cambiar permisos
+
+	ifconfig : proporciona informacion de red ( administracion red )
