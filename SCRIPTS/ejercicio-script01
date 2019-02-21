@@ -1,0 +1,34 @@
+	## 1º Ejercicio de scripts
+
+	-Función del script:
+	
+		Este script te preguntara tu nombre y te responderá
+	con el nombre que hayas introducido
+
+	-Instrucciones y consejos:
+
+	1º. Muestra por pantalla :
+	
+		¿ Como te llamas ?
+
+	* echo "lo que quieres que muestre por pantalla" *
+	* echo sirve para mostrar lo que pongas dentro de las comillas*
+
+	2º. Guarda en una variable lo que escriban en respuesta:
+
+	* read variable *
+	* read sirve para crear variables, guardando lo que se escriba*
+	* puedes poner el nombre que quieras a la variable *
+
+	3º. El script tiene que responder al usuario:
+
+		Buenas antonio , suerte con los scripts 
+
+	* echo "Buenas $nombre , suerte con los scripts"*
+	* Para usar una variable se pone el signo "$" delante de la variable *
+	
+	4º. Guarda el script
+
+	5º. Cambiale los permisos y ejecutalo.
+
+

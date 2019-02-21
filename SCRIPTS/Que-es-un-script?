@@ -1,0 +1,14 @@
+	## ¿ Qué es un script ?
+	
+	Un script, es un fichero EJECUTABLE.
+
+	Este fichero no contiene texto normal, esta formado
+	por lineas de codigo ( comandos, lenguaje de programacion )
+
+	En este caso usamos el BASH, que son las instrucciones de linux.
+	Los scripts de BASH ( linux ) terminan en .sh 
+		* Se ejecutan con ./"script"	
+	* Tambien existen otras formas ( lenguajes ) de crear ficheros 
+	ejecutables. ( python, java, C...)
+
+
